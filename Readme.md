@@ -26,5 +26,10 @@ pip install gensim
 pip install transformers
 ```
 
+## Usage
+```python
+python lexsub_main.py lexsub_trial.xml > part5.predict
+```
+
 ## Output
 lexical substitution outputs are stored in .predict files
